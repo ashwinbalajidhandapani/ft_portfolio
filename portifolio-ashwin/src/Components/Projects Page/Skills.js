@@ -3,7 +3,7 @@ import "./ProjectLight.css";
 
 function Skills({ id }) {
   return (
-    <article id={id} className="project light">
+    <article id={id} className="project dark">
       <h2 className="project__header">Skills</h2>
       <div className="project__main">
         <div data-aos="fade-left" className="project__right">
