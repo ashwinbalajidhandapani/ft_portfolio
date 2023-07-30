@@ -18,7 +18,6 @@ function Experience2() {
           - Created a POC for Passwordless authentication for a MERN application using Azure AD <br />
           - Implemented SonarQube as the Static Application Security Testing (SAST) tool for the product code base of my previous organization <br />
           - Conducted necessary configuration and setup of SonarQube to ensure optimal performance for code analysis <br />
-          - Collaborated with team members to integrate SonarQube into the software development process, improving code quality and security <br />
           </p>
         </div>
       </div>
