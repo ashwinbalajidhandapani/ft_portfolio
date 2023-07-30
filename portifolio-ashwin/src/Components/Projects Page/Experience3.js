@@ -10,8 +10,8 @@ function Experience3({ id }) {
           <h3 className="project__title">Accenture Solutions Pvt Ltd</h3>
           <p className="project__description project__body">
             <span className="project__specialText">Application Development Associate - Accenture Solutions Pvt Ltd</span> Chennai, India <br /> <br />
-            - Collaborated with Business Analysts and Developers to understand the new feature to create a comprehensive Test Design Document, performed thorough Testing following the steps in the Test Design document and reported the issues to the development team <br />
-            - Identified testing stories/components that can be automated and Developed Selenium scripts for the same, this reduced the manual effort by 80% during regression
+            - Built RESTful web services and utilized Spring Boot, JAX-RS, JDBC, and the JSP Standard tag library to display paginated 100K insurance records retrieved from a MySQL database <br />
+            - Created comprehensive unit test cases using JUnit to validate the functionalities
           </p>
         </div>
       </div>
