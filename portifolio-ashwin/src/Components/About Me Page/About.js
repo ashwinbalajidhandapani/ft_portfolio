@@ -16,10 +16,9 @@ function About() {
         <h2 className="about__heading">About Me</h2>
         <p className="about__body">
           Hi! I am Ashwin Balaji Dhandapani, a <span className="about__specialText">Full-Stack Developer</span>{" "}
-          <span className="about__specialText">Northeastern University, Boston</span>{" "}
-          With my experience as a Software Engineer, I've honed my skills in Java Development, PLM, Software Quality, and DevSecOps{" "}
-          I'm passionate about becoming a <span className="about__specialText">Full stack developer</span>,
-          developing Front-end, creating APIs, and working with databases. Additionally, I have a keen interest 
+          With my experience as a Software Engineer, I've honed my skills in crafting software following best practices{" "}
+          I'm experienced in <span className="about__specialText">Full stack developement</span>, which includes
+          developing Front-end, creating Backend APIs, and working with databases. Additionally, I have a keen interest 
           in Cybersecurity, particularly in the areas of <span className="about__specialText">DevSecOps
           </span> <span className="about__specialText">Security Automations</span> and <span className="about__specialText">Penetration Testing.</span>
           My goal is to continue expanding my knowledge and expertise in these fields to become a well-rounded software developer.
@@ -37,8 +36,8 @@ function About() {
         className="about__headshot"
         src="./images/AshwinBalajiDhandapani.jpeg"
         alt="Brand Logo"
-        width="300"
-        height="425"
+        width="325"
+        height="420"
       />
       <LightWave />
     </section>
