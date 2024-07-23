@@ -11,10 +11,12 @@ function Experience1({ id }) {
           <h3 className="project__title">Dassault Systemes North America</h3>
           <p className="project__description project__body">
             <span className="project__specialText">Software Engineering Intern - Dassault Systemes North America </span> <t /> <t /> <t />Waltham, MA <br /> <br />
-            - Collaborated with Dassault Systemes' procurement team to integrate 3DSupplyNetwork with Oracle PeopleSoft, saving 500 - 2000 man-hours and ensuring consistent supplier data across both platforms<br />
-            - Developed custom <span className="project__specialText">Apache NiFi processors</span> to address various use cases, including authentication, data creation, updating, deletion, and data cleaning which resulted in a loosely coupled middleware system, enhancing reusability and flexibility <br />
-            - Compared and examined the datasets of the supplier Management tool and the ERP to detect gaps in the data between both the systems <br />
-            - Performed an in-depth analysis of data usage and transit to facilitate the integration of systems and to and determine the system requirements for a CentOS virtual machine where the Nifi instance was to be deployed<br />
+            - Architected <span className="project__specialText"> an integration service and the on-premises Apache Nifi agent </span> to extract and stream data from Oracle PeopleSoft to 3DExperience platform<br />
+            - Optimized Nifi data flow to handle supplier data by making use of <span className="project__specialText">Apache NiFi's Custom and in-built processors</span> <br />
+            - Built Spring Boot backend microservice that performed CRUD actions on supplier data <br />
+            - Implemented geospatial visualization of Supplier data using Javascript and jQuery, thereby aiding customers to accelerate strategic sourcing decisions<br />
+            - Reduced boilerplate code by 40% by implementing Test-driven development, design patterns and other development best practices
+            - Analysed Apache Nifi logs to optimize agent performance and determine the minimum system requirements
           </p>
         </div>
       </div>

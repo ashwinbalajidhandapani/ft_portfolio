@@ -6,6 +6,9 @@ import Skills from "./Skills";
 import Experience1 from "./Experience1";
 import Experience2 from "./Experience2";
 import Experience3 from "./Experience3";
+import Experience4 from "./Experience4";
+import Experience5 from "./Experience5";
+import Project5 from "./Project5";
 
 
 function Projects() {
@@ -15,9 +18,12 @@ function Projects() {
       <Project2 />
       <Project3 />
       <Project4 />
+      <Project5 />
       <Experience1 />
       <Experience2 />
       <Experience3 />
+      <Experience4 />
+      <Experience5 />
       <Skills/>
     </section>
   );

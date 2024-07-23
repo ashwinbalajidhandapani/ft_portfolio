@@ -8,12 +8,12 @@ function Contact() {
       <div data-aos="fade-right" className="contact__body">
         <h2 className="contact__heading">Contact Me</h2>
         <p className="contact__p">
-          Currently, Seeking Full time Software Development Roles
+          Seeking Full time Software Development Roles
         </p>
         <div className="contact__option">
           <FaMailBulk className="contact__logo" size={45} />
-          <a href="mailto: dhandapani@northeastern.edu">
-            <span className="contact__text">dhandapani.as@northeastern.edu</span>
+          <a href="mailto: dhandapani.ashwinbalaji@gmail.com">
+            <span className="contact__text">dhandapani.ashwinbalaji@gmail.com</span>
           </a>
         </div>
         <div className="contact__option">

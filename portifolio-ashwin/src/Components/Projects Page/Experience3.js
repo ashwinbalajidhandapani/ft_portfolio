@@ -10,8 +10,10 @@ function Experience3({ id }) {
           <h3 className="project__title">Accenture Solutions Pvt Ltd</h3>
           <p className="project__description project__body">
             <span className="project__specialText">Application Development Associate - Accenture Solutions Pvt Ltd</span> Chennai, India <br /> <br />
-            - Built RESTful web services and utilized Spring Boot, JAX-RS, JDBC, and the JSP Standard tag library to display paginated 100K insurance records retrieved from a MySQL database <br />
-            - Created comprehensive unit test cases using JUnit to validate the functionalities
+            - Designed and implemented reactive user interfaces using Angular contributing 15% more user engagement due to enhanced user experience and interface responsiveness <br />
+            - Developed and maintained backend features using Spring boot utilizing JPA, Hibernate etc. maintaining coding best practices <br />
+            - Resolved backend and frontend issues using Java and Javascript based on severity during production deployments <br />
+            - Maintained and developed unit tests using Junit and TestNG bolstering build stability and bringing down defect leakage <br />
           </p>
         </div>
       </div>
